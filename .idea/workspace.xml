@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff55dce0-c1bb-475f-86b8-f1d4dda6a394" name="Changes" comment="And Toms said, Let there be light: and there was light.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
       <updated>1644259874815</updated>
       <workItem from="1644259876021" duration="1479000" />
       <workItem from="1644261380627" duration="14000" />
-      <workItem from="1644261396634" duration="369000" />
+      <workItem from="1644261396634" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="And Toms said, Let there be light: and there was light.">
       <created>1644260651528</created>
@@ -45,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644260651528</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="And Toms said, Let there be light: and there was light.">
+      <created>1644261811158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644261811158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
